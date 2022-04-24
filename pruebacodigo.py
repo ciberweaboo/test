@@ -1,1 +1,3 @@
-print("Este programa no es un virus")
+import random
+while True:
+  print(random.randint(0, 9999))
